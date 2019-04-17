@@ -1,0 +1,40 @@
+C:\Users\Diseño1\Documents\Visual Studio 2012\Projects\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\bin\Debug\datos.accdb
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.xml
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form2.resources
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.Cache
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.xml
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Diseño1\Pictures\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form3.resources
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.xml
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\bin\Debug\datos.accdb
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\bin\Debug\Ejemplo.xml
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form2.resources
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form3.resources
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+C:\Users\Diseño1\Downloads\Ejemplo\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.Cache
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.xml
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\bin\Debug\datos.accdb
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\bin\Debug\Ejemplo.xml
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form1.resources
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form2.resources
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Form3.resources
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Resources.resources
+C:\Users\Ricardo David G\Desktop\Ejemplo\Ejemplo\obj\Debug\Ejemplo.vbproj.GenerateResource.Cache
